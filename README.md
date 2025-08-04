@@ -12,5 +12,5 @@ It includes:
 
 1. Clone or download this repository to your Issabel server:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/issabel-easyvpn-install.git
+   git clone https://github.com/AhmedHanyAbdulazim/issabel-easyvpn-install.git
    cd issabel-easyvpn-install
